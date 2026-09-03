@@ -3,3 +3,5 @@ name = "zero-docx-arch-linux"
 version = "1.0.0"
 edition = "2021"
 description = "Native Arch Linux client for zero-docx"
+
+# deps bumped
