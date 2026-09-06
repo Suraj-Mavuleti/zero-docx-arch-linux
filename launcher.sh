@@ -1,5 +1,5 @@
 #!/bin/bash
-# AUTO-UPDATER
+# ARCH LINUX NATIVE AUTO-UPDATER
 cd /home/suraj/.gemini/antigravity/scratch/zero_suite/zero-docx-arch-linux
 git pull origin main --quiet
 python3 zero_docx_gui.py
